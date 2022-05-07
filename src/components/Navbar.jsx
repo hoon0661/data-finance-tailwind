@@ -18,13 +18,13 @@ const Navbar = () => {
       </ul>
       {/* Anything above md => hidden */}
       <div onClick={handleNav} className="block md:hidden">
-        {!nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
+        {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
       </div>
 
       <div
         className={
-          !nav
-            ? "fixed left-0 top-0 w-[60%] border-r-gray-900 h-full bg-[#000300]"
+          nav
+            ? "fixed left-0 top-0 w-[60%] border-r-gray-900 h-full bg-[#000300] ease-in-out duration-500"
             : "fixed left-[-100%]"
         }
       >
