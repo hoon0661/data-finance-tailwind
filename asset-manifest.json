@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/data-finance-tailwind/static/css/main.4bbf778b.css",
+    "main.js": "/data-finance-tailwind/static/js/main.987e7533.js",
+    "static/media/laptop.jpg": "/data-finance-tailwind/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/data-finance-tailwind/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/data-finance-tailwind/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/data-finance-tailwind/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/data-finance-tailwind/index.html",
+    "main.4bbf778b.css.map": "/data-finance-tailwind/static/css/main.4bbf778b.css.map",
+    "main.987e7533.js.map": "/data-finance-tailwind/static/js/main.987e7533.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bbf778b.css",
+    "static/js/main.987e7533.js"
+  ]
+}
